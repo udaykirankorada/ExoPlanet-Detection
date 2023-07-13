@@ -9,6 +9,21 @@ The idea is to plot the intensities of different stars at different times. When 
 ## Working
 Basic Python libraries are used to perform preliminary analysis on the '.csv' file of the data. Afterward, the data is filtered and used to train the ML model. Afterward, the model is used to make predictions for the test dataset.
 
+# Libraries
+Python libraries: 
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Sklearn
+- SciPy
+
+Filters used:
+- Median filter
+- Savgol filter
+
+ML model: Random Forest Classifier
+
 ## Results
 Accuracy of above 90% is seen for both the train and test datasets.
 
@@ -17,7 +32,7 @@ This project is a demonstration of the fact that even with widely freely availab
 
 ## Instructions
 1. Download the train dataset and test dataset from these links.
--Train dataset(https://drive.google.com/file/d/19eXeuOLqCqhy-C66W-QFbv0NmdUPzwNX/view?usp=drivesdk)
--Test dataset(https://drive.google.com/file/d/19RbrLDdu5kYTZHac_lnYH8DNJFZgrsXj/view?usp=drivesdk)
+- Train dataset (https://drive.google.com/file/d/19eXeuOLqCqhy-C66W-QFbv0NmdUPzwNX/view?usp=drivesdk)
+- Test dataset (https://drive.google.com/file/d/19RbrLDdu5kYTZHac_lnYH8DNJFZgrsXj/view?usp=drivesdk)
 2. Open the Python file and set the path of the read.csv command and run the code.
 
