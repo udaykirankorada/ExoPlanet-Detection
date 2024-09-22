@@ -32,7 +32,7 @@ This project is a demonstration of the fact that even with widely freely availab
 
 ## Instructions
 1. Download the train dataset and test dataset from these links.
-- Train dataset (https://drive.google.com/file/d/19eXeuOLqCqhy-C66W-QFbv0NmdUPzwNX/view?usp=drivesdk)
-- Test dataset (https://drive.google.com/file/d/19RbrLDdu5kYTZHac_lnYH8DNJFZgrsXj/view?usp=drivesdk)
+- Train dataset (https://drive.google.com/file/d/1i4iML2Pp8U1K3HIyojbEc6TcOL13zbzc/view?usp=sharing)
+- Test dataset (https://drive.google.com/file/d/1QbdMRFdkxx2Zj4AaLHkczOeq3ZZd-Q1C/view?usp=sharing)
 2. Open the Python file and set the path of the read.csv command and run the code.
 
